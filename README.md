@@ -1,6 +1,7 @@
 # Kontak.py
-Projek sederhana penyimpanan kontak dgn python menggunakan tampilan console
+Simple Project Management of Telephone Contacts with Python Using Console 
 
+Login to [Replit](https://replit.com) first before clicking the link
 how to play >> 
 
 **Desktop**: [Play on Desktop](https://replit.com/@rastong22/Kontakpy-2)
