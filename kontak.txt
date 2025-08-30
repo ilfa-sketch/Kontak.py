@@ -1,0 +1,6 @@
+favorit,faruq,faruq@gmail.com,908555
+favorit,maya,maya@gmail.com,9999999
+umum,naya,naya@gmail.com,00099
+umum,fara,fara@gmail.com,178882
+umum,sya,sya@gmail.com,95367
+umum,faruq,faruq@gmail.com,726258
